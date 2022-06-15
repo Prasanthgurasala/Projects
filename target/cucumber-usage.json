@@ -1,0 +1,20 @@
+[
+  {
+    "source": "^user is on homepage$",
+    "steps": [
+      {
+        "name": "user is on homepage",
+        "aggregatedDurations": {
+          "average": 35.699549101,
+          "median": 35.699549101
+        },
+        "durations": [
+          {
+            "duration": 35.699549101,
+            "location": "TestTicket.feature:4"
+          }
+        ]
+      }
+    ]
+  }
+]
